@@ -1,2 +1,5 @@
 # hello-world
-repository
+
+Hi!
+
+I'm Alison and I like to learn.
